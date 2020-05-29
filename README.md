@@ -9,3 +9,5 @@ Matlab implementation of the improved Peacock algorithm by Yuanhui Xiao  as desc
 ## Disclaimer
 * There is no affiliation with the original author of the paper.
 * This software is provided "as is" with no warranty of any kind. Use this code at your own risk.
+## Contact
+For suggestions or bugs contact me at ssalinas85 at hotmail c
